@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   id="svg7041"
+   viewBox="0 0 6 6"
+   version="1.1"
+   width="6.8266668"
+   height="6.8266668"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <defs
+     id="defs7043">
+    <radialGradient
+       id="radialGradient7003"
+       gradientUnits="userSpaceOnUse"
+       cy="21.5"
+       cx="47.5"
+       r="2.5"
+       gradientTransform="translate(392.49999,622.28999)">
+      <stop
+         id="stop6999"
+         style="stop-color:#ffff00;stop-opacity:0;"
+         offset="0" />
+      <stop
+         id="stop7005"
+         style="stop-color:#ffff00;stop-opacity:0.49804002;"
+         offset="0.81999999" />
+      <stop
+         id="stop7001"
+         style="stop-color:#ffffae;stop-opacity:1;"
+         offset="1" />
+    </radialGradient>
+    <radialGradient
+       id="radialGradient6993"
+       gradientUnits="userSpaceOnUse"
+       cy="21.5"
+       cx="47.5"
+       r="2.5"
+       gradientTransform="translate(392.50001,622.29002)">
+      <stop
+         id="stop6245"
+         style="stop-color:#ffffff"
+         offset="0" />
+      <stop
+         id="stop6247"
+         style="stop-color:#ffff1b;stop-opacity:0;"
+         offset="1" />
+    </radialGradient>
+    <radialGradient
+       id="radialGradient7039"
+       cx="-87.5"
+       gradientUnits="userSpaceOnUse"
+       cy="62.5"
+       r="2.5">
+      <stop
+         id="stop6193-9"
+         style="stop-color:#000000"
+         offset="0" />
+      <stop
+         id="stop6203-9"
+         style="stop-color:#000000"
+         offset=".51649" />
+      <stop
+         id="stop6199-8"
+         style="stop-color:#a6a6a6"
+         offset="0.76" />
+      <stop
+         id="stop6201-0"
+         style="stop-color:#353535"
+         offset="0.9" />
+      <stop
+         id="stop6195-0"
+         style="stop-color:#000000"
+         offset="1" />
+    </radialGradient>
+  </defs>
+  <g
+     id="layer1"
+     transform="translate(-437,-640.79)">
+    <circle
+       id="path6189-3"
+       style="fill:url(#radialGradient7039)"
+       transform="matrix(1.2,0,0,1.2,545,568.79)"
+       cx="-87.5"
+       cy="62.5"
+       r="2.5" />
+    <circle
+       id="path6983"
+       style="fill:#ffff00;fill-opacity:1"
+       cx="47.5"
+       cy="21.5"
+       r="2.5"
+       transform="translate(392.5,622.29)" />
+    <circle
+       id="path6985"
+       style="fill:url(#radialGradient6993)"
+       cx="440"
+       cy="643.78998"
+       r="2.5" />
+    <circle
+       id="path6995"
+       style="fill:url(#radialGradient7003)"
+       cx="440"
+       cy="643.78998"
+       r="2.5" />
+  </g>
+  <metadata
+     id="metadata265">
+    <rdf:RDF>
+      <cc:Work>
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/publicdomain/" />
+        <dc:publisher>
+          <cc:Agent
+             rdf:about="http://openclipart.org/">
+            <dc:title>Openclipart</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:date>2010-10-02T04:06:06</dc:date>
+        <dc:description>A green LED with a black surround</dc:description>
+        <dc:source>https://openclipart.org/detail/88117/led-green-by-bnielsen</dc:source>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>bnielsen</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>green</rdf:li>
+            <rdf:li>led</rdf:li>
+            <rdf:li>light</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/publicdomain/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+</svg>
